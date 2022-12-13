@@ -1,6 +1,6 @@
 ### README.md
 
-I run a creative studio called [Third Slant](https://www.thirdslant.com). We believe technology should work correctly, delight people, do no harm, be accessible, and push the boundaries of culture and science.
+I'm Joey Yang (he/him). I run a creative studio called [Third Slant](https://www.thirdslant.com). We believe technology should work correctly, delight people, do no harm, be accessible, and push the boundaries of culture and science.
 
 I think it's time to log off.
 
